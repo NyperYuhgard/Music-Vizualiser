@@ -1,0 +1,29 @@
+## Omitir carpetas de compilación
+Music Vizualiser/bin/
+Music Vizualiser/obj/
+
+## Carpetas de Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+## Archivos de caché y temporales de MSBuild
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.force
+*.log
+
+## Carpetas de paquetes NuGet
+packages/
+*.nuget.props
+*.nuget.targets
+
+## Archivos de base de datos de Visual Studio (IntelliSense)
+*.pdb
+*.ildb
+*.log
+*.tmp
